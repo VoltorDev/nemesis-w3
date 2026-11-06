@@ -1,0 +1,3 @@
+Némesis para The Witcher 3 (mod de Nico, uso privado).
+Este archivo marca la carpeta como suya: el instalador y el desinstalador solo tocan una carpeta
+modNemesis que lo lleve, para no pisar otro mod que use el mismo nombre.

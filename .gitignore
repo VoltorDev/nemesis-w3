@@ -1,0 +1,10 @@
+work/
+dist/
+__pycache__/
+*.pyc
+*.zip
+*.log
+*.sav
+*.vdf
+*.settings
+*.bak

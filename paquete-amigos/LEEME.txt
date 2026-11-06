@@ -1,0 +1,60 @@
+NÉMESIS PARA THE WITCHER 3 — versión 0.2 de prueba (solo para amigos de Nico, no lo compartas)
+
+QUÉ HACE
+Los bandidos, desertores y piratas que matas a veces no mueren del todo. Uno se arrastra lejos,
+malherido, y jura recordarte: desde ese momento es tu NÉMESIS, con nombre, apodo y carácter
+(sanguíneo, orgulloso, frío, cobarde, codicioso, leal o vagabundo).
+
+· Vuelve: unas horas de juego después te embosca en la misma región con su banda. Lleva su
+  nombre sobre la cabeza y viene preparado: si lo tumbaste con Igni ya no arde; con Aard, no cae.
+· Si te vence: Geralt no muere ni se recarga la partida. Pantalla en negro, el némesis se lleva
+  parte de tu dinero (nunca espadas, equipo ni objetos de misión), sube de rango y despiertas
+  junto al poste de viaje rápido descubierto más cercano (si no has descubierto ninguno en esa
+  región, donde caíste).
+· Lleva encima lo que te robó: si lo matas del todo, lo recuperas de su cadáver.
+· Con los sentidos de brujo se le ve en rojo.
+· Si lo vences: puede volver a engañar a la muerte, con otra cicatriz y más rabia… o morir del todo.
+· Si huyes lejos, te pierde la pista. Por ahora.
+
+Solo actúa con humanos genéricos (nunca con personajes de la historia), fuera de pueblos,
+interiores, escenas y misiones, y no en el prólogo, Kaer Morhen, la Isla de la Niebla ni Vizima.
+
+REQUISITOS
+· The Witcher 3 actualizado a la versión 5.0 (Next-Gen). Steam o GOG, en Windows.
+· No uses a la vez otro mod de némesis (p. ej. «Nemesis - Enemy Grudge System»).
+  Random Encounters Reworked sí puede convivir: si tiene criaturas cerca, el némesis espera su turno.
+
+INSTALAR
+1. Descomprime el zip en una carpeta (clic derecho > Extraer todo). Desde dentro del zip no funciona.
+2. Cierra el juego.
+3. Doble clic en «1 - Instalar.bat». Busca el juego solo; si no lo encuentra, te pide la carpeta.
+   Si el juego está en «Archivos de programa» (pasa con GOG), Windows te pedirá permiso de
+   administrador: es para poder copiar el mod en la carpeta Mods del juego.
+   Crea en el escritorio el acceso directo «Witcher 3 - Nemesis».
+   Si tu antivirus avisa del .bat, es porque ejecuta un script de PowerShell; puedes leerlo
+   antes en la carpeta «scripts».
+4. Juega abriendo el juego con ese acceso directo (con Steam abierto si lo tienes en Steam).
+   El primer arranque tarda un poco más: el juego recompila sus scripts.
+   El mod funciona también si lo abres normal, pero entonces no queda registro para mandar a Nico.
+
+Consejo: guarda tu partida en una ranura nueva antes de probarlo.
+
+MANDAR TU OPINIÓN A NICO
+· Después de cada sesión de juego (con el juego cerrado): «2 - Recoger resultados.bat».
+  Añade lo que ha pasado al archivo «resultados-nemesis.txt» de tu escritorio.
+· Rellena «FEEDBACK.txt» y manda los dos archivos a Nico.
+
+QUITARLO
+«3 - Desinstalar.bat». Tus partidas siguen cargando sin el mod (comprobado); los némesis que
+tuvieras se quedan dormidos hasta que lo vuelvas a instalar.
+
+LIMITACIONES CONOCIDAS (versión 0.1)
+· Sin voces nuevas: el némesis habla con textos en pantalla.
+· El nombre aparece como texto flotante, no en la barra de vida.
+· Aparecen pocas veces a propósito: hace falta matar bastantes enemigos humanos para que nazca uno
+  (10 %, o 30 % si es un cabecilla) y esperar unas horas de juego a que vuelva.
+· Si en mitad de una emboscada empieza una escena o una conversación de misión, la banda se
+  retira para no estropearla.
+· Mientras dura una emboscada, Geralt no puede morir: ni por la caída de un acantilado. Si llega
+  al límite, cuenta como derrota ante el némesis.
+· Es una versión de prueba: si algo se rompe, cuéntalo en el cuestionario con todo el detalle.
